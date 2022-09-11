@@ -4,7 +4,7 @@ repo: upp # The name of this repository
 
 sites:
   - name: Linkerd
-    url: https://linkerd.portals.eu.org/
+    url: $LINKERD_URL
   - name: Localstack
     url: https://localstack.apid.eu.org/health
   - name: Hacker News
@@ -18,8 +18,8 @@ status-website:
   cname: upp.portals.eu.org
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  name: Santhosh's Website Uptime Monitoring
+  introTitle: Santhosh Mahadev uses this open-source uptime Monitoring and status page to monitor his experimental websites.
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status

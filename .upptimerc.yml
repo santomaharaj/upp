@@ -5,6 +5,8 @@ repo: upp # The name of this repository
 sites:
   - name: ACTIVEMQ_URL
     url: $ACTIVEMQ_URL
+  - name: APIPORTAL_AZURE
+    url: $APIPORTAL_AZURE_URL    
   - name: APISIX_APIGW_URL
     url: $APISIX_APIGW_URL
   - name: APISIX_GRAFANA_URL

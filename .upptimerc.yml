@@ -60,7 +60,9 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
+    - title: Sites
+      href: https://sites.portals.eu.org      
+  theme: ocean
 workflowSchedule:
   graphs: "0 0 * * *"
   responseTime: "0 23 * * *"

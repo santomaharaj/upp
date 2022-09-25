@@ -1,7 +1,7 @@
 url: $LINKERD_URL
 status: up
 code: 200
-responseTime: 1085
-lastUpdated: 2022-09-24T23:25:56.468Z
+responseTime: 709
+lastUpdated: 2022-09-25T23:26:32.623Z
 startTime: Sun Sep 11 2022 07:32:42 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

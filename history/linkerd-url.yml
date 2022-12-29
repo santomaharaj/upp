@@ -1,7 +1,7 @@
 url: $LINKERD_URL
 status: down
 code: 502
-responseTime: 916
-lastUpdated: 2022-12-28T23:18:42.995Z
+responseTime: 803
+lastUpdated: 2022-12-29T23:20:02.938Z
 startTime: Sun Sep 11 2022 07:32:42 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

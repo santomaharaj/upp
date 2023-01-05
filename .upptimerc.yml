@@ -27,8 +27,6 @@ sites:
     url: $KUBECOST_URL
   - name: KUBERNETES_DASHBOARD_URL
     url: $KUBERNETES_DASHBOARD_URL
-  - name: LINKERD_URL
-    url: $LINKERD_URL
   - name: LOCALSTACK_AWS_HEALTH_URL
     url: $LOCALSTACK_AWS_HEALTH_URL
   - name: PORTAINER_URL
@@ -44,7 +42,13 @@ sites:
   - name: SWAGGERUI_URL
     url: $SWAGGERUI_URL
   - name: VSCODE_URL
-    url: $VSCODE_URL    
+    url: $VSCODE_URL
+  - name: SOLACE_URL
+    url: $SOLACE_URL
+  - name: KIALI_URL
+    url: $KIALI_URL
+  - name: PROMETHEUS_URL
+    url: $PROMETHEUS_URL
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

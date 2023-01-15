@@ -1,7 +1,7 @@
 url: $APIPORTAL_AZURE_URL
 status: up
 code: 200
-responseTime: 287
-lastUpdated: 2023-01-14T23:17:55.654Z
+responseTime: 231
+lastUpdated: 2023-01-15T23:19:01.184Z
 startTime: Sun Sep 11 2022 09:26:31 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

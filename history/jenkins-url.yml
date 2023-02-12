@@ -1,7 +1,7 @@
 url: $JENKINS_URL
 status: down
 code: 403
-responseTime: 4204
-lastUpdated: 2023-02-11T23:18:34.136Z
+responseTime: 882
+lastUpdated: 2023-02-12T23:18:33.498Z
 startTime: Sun Sep 11 2022 07:32:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

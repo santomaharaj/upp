@@ -1,7 +1,7 @@
 url: $APISIX_GRAFANA_URL
 status: up
 code: 200
-responseTime: 1155
-lastUpdated: 2023-03-21T23:17:02.455Z
+responseTime: 1242
+lastUpdated: 2023-03-22T23:14:58.303Z
 startTime: Sun Sep 11 2022 07:32:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

@@ -1,7 +1,7 @@
 url: $PROMETHEUS_URL
 status: down
 code: 502
-responseTime: 904
-lastUpdated: 2023-03-29T23:19:05.089Z
+responseTime: 1035
+lastUpdated: 2023-03-30T23:18:57.520Z
 startTime: Thu Jan 05 2023 11:45:31 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

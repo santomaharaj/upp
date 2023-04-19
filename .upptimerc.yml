@@ -49,6 +49,8 @@ sites:
     url: $KIALI_URL
   - name: PROMETHEUS_URL
     url: $PROMETHEUS_URL
+  - name: CURITY_URL
+    url: $CURITY_URL    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

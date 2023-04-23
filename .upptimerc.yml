@@ -50,7 +50,9 @@ sites:
   - name: PROMETHEUS_URL
     url: $PROMETHEUS_URL
   - name: CURITY_URL
-    url: $CURITY_URL    
+    url: $CURITY_URL
+  - name: WSO2AMCARBON_URL
+    url: $WSO2AMCARBON_URL
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

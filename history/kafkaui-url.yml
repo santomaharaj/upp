@@ -1,7 +1,7 @@
 url: $KAFKAUI_URL
 status: down
 code: 502
-responseTime: 943
-lastUpdated: 2023-07-15T23:17:29.634Z
+responseTime: 950
+lastUpdated: 2023-07-16T23:18:05.722Z
 startTime: Sun Sep 11 2022 07:32:31 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

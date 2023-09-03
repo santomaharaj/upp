@@ -1,7 +1,7 @@
 url: $ACTIVEMQ_URL
 status: down
-code: 502
-responseTime: 1000
-lastUpdated: 2023-09-02T23:15:00.462Z
+code: 401
+responseTime: 1004
+lastUpdated: 2023-09-03T23:15:42.247Z
 startTime: 2022-09-11T07:32:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>

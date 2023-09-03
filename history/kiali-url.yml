@@ -1,7 +1,7 @@
 url: $KIALI_URL
 status: up
 code: 200
-responseTime: 1241
-lastUpdated: 2023-09-02T23:15:27.906Z
+responseTime: 1166
+lastUpdated: 2023-09-03T23:16:10.904Z
 startTime: 2023-01-05T11:45:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>

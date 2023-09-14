@@ -1,7 +1,7 @@
 url: $GRAFANA_URL
 status: up
 code: 200
-responseTime: 1043
-lastUpdated: 2023-09-13T23:16:15.349Z
+responseTime: 700
+lastUpdated: 2023-09-14T23:16:18.123Z
 startTime: 2022-09-11T07:32:23.000Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -1,7 +1,7 @@
 url: $SPRINGBOOT_AUTH_OPENAPI_URL
 status: up
 code: 200
-responseTime: 186
-lastUpdated: 2023-09-28T23:16:41.263Z
+responseTime: 189
+lastUpdated: 2023-09-29T23:16:31.117Z
 startTime: 2022-09-11T07:32:53.000Z
 generator: Upptime <https://github.com/upptime/upptime>

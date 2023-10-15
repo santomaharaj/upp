@@ -1,7 +1,7 @@
 url: $REDOC_SWAGGER_URL
-status: down
-code: 502
-responseTime: 793
-lastUpdated: 2023-10-14T23:15:47.613Z
+status: up
+code: 200
+responseTime: 807
+lastUpdated: 2023-10-15T03:30:26.032Z
 startTime: 2022-09-11T07:32:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>

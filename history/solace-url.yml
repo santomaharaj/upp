@@ -1,7 +1,7 @@
 url: $SOLACE_URL
 status: down
 code: 502
-responseTime: 799
-lastUpdated: 2023-10-16T02:58:40.030Z
+responseTime: 669
+lastUpdated: 2023-10-16T23:16:34.336Z
 startTime: 2023-01-05T11:45:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>

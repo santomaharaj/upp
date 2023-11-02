@@ -1,7 +1,7 @@
 url: $KUBECOST_URL
-status: down
-code: 502
-responseTime: 724
-lastUpdated: 2023-11-02T11:54:20.836Z
+status: up
+code: 200
+responseTime: 764
+lastUpdated: 2023-11-02T15:16:51.130Z
 startTime: 2022-09-11T07:32:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>

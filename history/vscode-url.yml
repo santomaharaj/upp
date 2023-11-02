@@ -1,7 +1,7 @@
 url: $VSCODE_URL
-status: up
-code: 200
-responseTime: 4215
-lastUpdated: 2023-11-02T17:40:41.009Z
+status: down
+code: 530
+responseTime: 43
+lastUpdated: 2023-11-02T17:52:48.312Z
 startTime: 2022-09-11T07:32:55.000Z
 generator: Upptime <https://github.com/upptime/upptime>

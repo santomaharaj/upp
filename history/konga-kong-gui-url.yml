@@ -1,7 +1,7 @@
 url: $KONGA_KONG_GUI_URL
 status: down
 code: 502
-responseTime: 708
-lastUpdated: 2023-11-13T23:17:17.199Z
+responseTime: 805
+lastUpdated: 2023-11-14T23:17:15.337Z
 startTime: 2022-09-11T07:32:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>

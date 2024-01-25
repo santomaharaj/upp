@@ -1,7 +1,7 @@
 url: $WSO2AMCARBON_URL
 status: down
-code: 530
-responseTime: 38
-lastUpdated: 2024-01-24T23:17:42.446Z
+code: 502
+responseTime: 734
+lastUpdated: 2024-01-25T23:18:18.357Z
 startTime: 2023-04-23T12:55:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -1,7 +1,7 @@
 url: $SPRINGBOOT_AUTH_HEALTH_CHECK_URL
 status: up
 code: 200
-responseTime: 625
-lastUpdated: 2024-02-08T23:17:40.529Z
+responseTime: 651
+lastUpdated: 2024-02-09T23:16:27.816Z
 startTime: 2022-09-11T07:32:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>

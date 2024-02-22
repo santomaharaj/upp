@@ -1,7 +1,7 @@
 url: $APISIX_APIGW_URL
 status: up
 code: 200
-responseTime: 732
-lastUpdated: 2024-02-21T23:17:06.807Z
+responseTime: 663
+lastUpdated: 2024-02-22T23:20:12.370Z
 startTime: 2022-09-11T07:32:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>

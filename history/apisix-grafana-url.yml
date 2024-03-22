@@ -1,7 +1,7 @@
 url: $APISIX_GRAFANA_URL
 status: down
 code: 530
-responseTime: 56
-lastUpdated: 2024-03-21T23:18:45.953Z
+responseTime: 45
+lastUpdated: 2024-03-22T23:16:01.915Z
 startTime: 2022-09-11T07:32:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>

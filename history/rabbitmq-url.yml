@@ -1,7 +1,7 @@
 url: $RABBITMQ_URL
 status: down
 code: 502
-responseTime: 543
-lastUpdated: 2024-05-25T23:17:02.328Z
+responseTime: 598
+lastUpdated: 2024-05-26T23:19:27.031Z
 startTime: 2022-09-11T07:32:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>

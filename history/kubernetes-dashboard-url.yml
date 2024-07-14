@@ -1,7 +1,7 @@
 url: $KUBERNETES_DASHBOARD_URL
 status: up
 code: 200
-responseTime: 775
-lastUpdated: 2024-07-14T22:55:25.570Z
+responseTime: 709
+lastUpdated: 2024-07-14T23:18:20.937Z
 startTime: 2022-09-11T07:32:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>

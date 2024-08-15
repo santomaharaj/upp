@@ -1,7 +1,7 @@
 url: $CURITY_URL
-status: down
-code: 502
-responseTime: 706
-lastUpdated: 2024-08-15T11:53:04.033Z
+status: up
+code: 200
+responseTime: 902
+lastUpdated: 2024-08-15T12:29:54.412Z
 startTime: 2023-04-19T11:49:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>

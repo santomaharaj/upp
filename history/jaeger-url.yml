@@ -1,7 +1,7 @@
 url: $JAEGER_URL
 status: up
 code: 200
-responseTime: 871
-lastUpdated: 2024-08-27T23:19:32.300Z
+responseTime: 544
+lastUpdated: 2024-08-28T23:20:06.987Z
 startTime: 2022-09-11T07:32:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -1,7 +1,7 @@
 url: $KEYCLOAK_URL
 status: up
 code: 200
-responseTime: 1315
-lastUpdated: 2024-10-14T23:20:10.471Z
+responseTime: 1166
+lastUpdated: 2024-10-15T23:22:12.661Z
 startTime: 2022-09-11T07:32:35.000Z
 generator: Upptime <https://github.com/upptime/upptime>

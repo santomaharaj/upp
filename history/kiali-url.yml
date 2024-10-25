@@ -1,7 +1,7 @@
 url: $KIALI_URL
 status: down
 code: 502
-responseTime: 537
-lastUpdated: 2024-10-24T23:21:23.999Z
+responseTime: 764
+lastUpdated: 2024-10-25T23:21:42.889Z
 startTime: 2023-01-05T11:45:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -1,7 +1,7 @@
 url: $SPRINGBOOT_AUTH_HEALTH_CHECK_URL
 status: down
 code: 403
-responseTime: 144
-lastUpdated: 2025-07-31T23:26:17.697Z
+responseTime: 235
+lastUpdated: 2025-08-01T23:26:11.842Z
 startTime: 2022-09-11T07:32:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>

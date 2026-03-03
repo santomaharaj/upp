@@ -1,7 +1,7 @@
 url: $PROMETHEUS_URL
 status: up
 code: 200
-responseTime: 914
-lastUpdated: 2026-03-02T23:34:51.086Z
+responseTime: 1299
+lastUpdated: 2026-03-03T23:35:04.239Z
 startTime: 2023-01-05T11:45:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>

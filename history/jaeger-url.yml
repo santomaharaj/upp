@@ -1,7 +1,7 @@
 url: $JAEGER_URL
 status: down
 code: 530
-responseTime: 1609
-lastUpdated: 2026-05-31T00:06:38.703Z
+responseTime: 36
+lastUpdated: 2026-06-01T00:11:46.414Z
 startTime: 2022-09-11T07:32:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>

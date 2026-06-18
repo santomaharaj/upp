@@ -1,7 +1,7 @@
 url: $SPRINGBOOT_AUTH_OPENAPI_URL
 status: down
 code: 403
-responseTime: 52
-lastUpdated: 2026-06-17T00:27:11.734Z
+responseTime: 57
+lastUpdated: 2026-06-18T00:24:34.113Z
 startTime: 2022-09-11T07:32:53.000Z
 generator: Upptime <https://github.com/upptime/upptime>

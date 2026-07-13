@@ -1,7 +1,7 @@
 url: $LOCALSTACK_AWS_HEALTH_URL
 status: down
 code: 403
-responseTime: 70
-lastUpdated: 2026-07-12T00:04:31.509Z
+responseTime: 17
+lastUpdated: 2026-07-13T00:03:27.775Z
 startTime: 2022-09-11T07:32:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>

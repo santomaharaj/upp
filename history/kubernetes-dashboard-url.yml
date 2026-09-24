@@ -1,7 +1,7 @@
 url: $KUBERNETES_DASHBOARD_URL
 status: down
 code: 502
-responseTime: 30740
-lastUpdated: 2026-09-23T01:25:09.157Z
+responseTime: 30534
+lastUpdated: 2026-09-24T01:19:18.625Z
 startTime: 2022-09-11T07:32:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>

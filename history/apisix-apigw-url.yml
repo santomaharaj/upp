@@ -1,7 +1,7 @@
 url: $APISIX_APIGW_URL
 status: down
 code: 404
-responseTime: 721
-lastUpdated: 2026-10-02T02:05:36.850Z
+responseTime: 666
+lastUpdated: 2026-10-03T01:50:17.589Z
 startTime: 2022-09-11T07:32:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>

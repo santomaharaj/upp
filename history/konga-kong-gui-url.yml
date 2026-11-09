@@ -1,7 +1,7 @@
 url: $KONGA_KONG_GUI_URL
 status: up
 code: 200
-responseTime: 712
-lastUpdated: 2026-11-08T02:14:47.107Z
+responseTime: 625
+lastUpdated: 2026-11-09T02:32:05.405Z
 startTime: 2022-09-11T07:32:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>

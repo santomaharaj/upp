@@ -1,7 +1,7 @@
 url: $SWAGGERUI_URL
-status: up
-code: 200
-responseTime: 1067
-lastUpdated: 2026-11-19T01:06:33.941Z
+status: down
+code: 403
+responseTime: 51
+lastUpdated: 2026-11-19T04:05:33.910Z
 startTime: 2022-09-11T07:32:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
